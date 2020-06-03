@@ -1,7 +1,7 @@
 var data = [
     {
         namqqe : '舆情类',
-        value: 5118
+        value: 3000
     },
     {
         name: '政策类',
@@ -21,7 +21,7 @@ var data = [
     },
     {
         name: '短视频',
-        value: 60
+        value: 200
     },
     {
         name: '电商类',
