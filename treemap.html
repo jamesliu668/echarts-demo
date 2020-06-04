@@ -5,8 +5,8 @@
     <!-- including ECharts file -->
     <style>
         #main{
-            width: 1280px;
-            height: 800px;
+            width: 1440px;
+            height: 900px;
             margin: 0 auto;
         }
     </style>
@@ -22,7 +22,6 @@
         var newObj = data.map(res => {
             const dataArr = Object.values(res)
             return {
-                name : dataArr[0],
                 value : dataArr[1]
             }
         })
